@@ -11,6 +11,10 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
+ function cartList(cart,itemName,itemPrice) {
+   cartArrays[itemName] = itemPrice;
+   
+ }
 }
 
 function viewCart() {
